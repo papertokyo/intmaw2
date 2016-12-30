@@ -1,5 +1,5 @@
 ---
-title: I need to make a website
+title: Make a Good Website
 timezone: UTC
 collections:
   posts:
@@ -13,7 +13,7 @@ description: 'Handpicked website platforms for design-conscious makers and entre
   If it''s not great, it''s not here.
 
 '
-baseurl: ''
+baseurl: 
 url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
